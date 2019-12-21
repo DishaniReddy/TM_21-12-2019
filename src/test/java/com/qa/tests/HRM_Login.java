@@ -13,7 +13,7 @@ public class HRM_Login {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);			
 		driver.get("http://testingmasters.com/hrm/");
-
+		//completed test...
 	}
 
 }
